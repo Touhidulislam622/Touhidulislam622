@@ -1,10 +1,9 @@
 import './App.css';
-import Faqs from './FaQ/Faqs';
-
+import UseEfect from './Hooks/UseEfect';
 function App() {
   return (
     <div className="App">
-      <Faqs />
+      <UseEfect />
     </div>
   );
 }

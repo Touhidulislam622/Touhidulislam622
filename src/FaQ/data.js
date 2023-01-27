@@ -1,4 +1,4 @@
-export const faqsData = [
+ const faqsData = [
     {
         id: 1 ,
         title:"how can we reach you?" ,
@@ -15,3 +15,4 @@ export const faqsData = [
         desc:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid",
     }
 ]
+export default faqsData;
